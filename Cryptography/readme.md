@@ -12,4 +12,6 @@
 11. ElGlgamal algorithm
 12. Rabin algorithm
 13. SHA-512 algorithm
-14. RSA Digital Signature scheme
+14. ECC algorithm
+15. RSA Digital Signature scheme
+
